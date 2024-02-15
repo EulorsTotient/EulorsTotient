@@ -1,4 +1,4 @@
-Unfortunatly Euler was taken
+Unfortunately Euler was taken
 
 <!---
 EulorsTotient/EulorsTotient is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
